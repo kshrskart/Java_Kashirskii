@@ -10,7 +10,8 @@ ServiceCenter:
  - день выдачи;
  - результат ремонта;
  - фамилия персонала;
- - сумма ремонта;*/
+ - сумма ремонта;
+ */
 package com.makotogroup.intro;
 
 public class TestCenter {
